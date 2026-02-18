@@ -13,7 +13,7 @@
 - Privacy-first: no data stored permanently
 
 ---
-
+ 
 ## Installation
 
 ```bash
